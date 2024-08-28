@@ -1,0 +1,13 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	letsbuild: {
+		imageUp: Letsbuild (1)
+		imageDown: Letsbuild (2)
+		imageOver: Letsbuild
+		pressedOffsetY: 10
+	}
+	ready: {
+		imageUp: Letsbuild (3)
+	}
+}
+}
